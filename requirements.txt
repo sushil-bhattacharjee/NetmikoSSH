@@ -1,0 +1,15 @@
+###Major required packages used in this IaC
+genie==24.11
+Jinja2==3.1.5
+lxml==4.9.3
+ncclient==0.6.16
+netmiko==4.5.0
+paramiko==3.5.0
+pyats==24.11
+PyYAML==6.0.2
+requests==2.32.3
+rich==13.9.4
+scrapli==2024.7.30.post1
+scrapli_netconf==2024.7.30
+textfsm==1.1.3
+xmltodict==0.12.0
